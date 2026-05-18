@@ -24,7 +24,7 @@
 
 ##
 
-- ❤️ Portfolio : ([Portfolio](https://pranalii-portfolio.netlify.app))
+- ❤️ Portfolio : ([Portfolio](https://pranali-valve-portfolio.netlify.app/))
 - ⚡ Open to work | learning | collaborating
 - 📧 Contact with me : 
   pranalivalve2001@gmail.com | ([LinkedIn](https://www.linkedin.com/in/pranali-valve-aa04b3382/))

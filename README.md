@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Pranali Valve</h1>
 
 - 🎯 Aspiring Data Analyst + AI + Gen AI | SQL, Python, Excel & Power BI | Turning data into Business Insights 
-- <b>💻 SQL ⭐⭐⭐⭐⭐ HackerRank</b> 
+- <b>💻 SQL ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐ HackerRank</b> 
 - 🌏 Passionate about continuous learning, aim to leverage my analytical and technical skills to solve business problems
 - 💯 Proficient in Data analysis and Software Development Technologies.
 - ✍️ Currently working on personal projects ([GitHub](https://github.com/pranali-valve))

@@ -4,7 +4,7 @@
 - <b>💻 SQL ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐ HackerRank</b> 
 - 🌏 Passionate about continuous learning, aim to leverage my analytical and technical skills to solve business problems
 - 💯 Proficient in Data analysis and Software Development Technologies.
-- ✍️ Currently working on personal projects ([GitHub](https://github.com/pranali-valve))
+- ✍️ Creating ML | AI content on Social media ([@pranali.tech](https://www.instagram.com/pranali.tech?igsh=MW82Z2RjMG5wcGM5MQ==))
 - 😎 Fun fact: Play indoor games, Riding bikes.
 
 ## 🔭 My Interests

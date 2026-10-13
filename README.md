@@ -28,3 +28,44 @@
 - ⚡ Open to work | learning | collaborating
 - 📧 Contact with me : 
   pranalivalve2001@gmail.com | ([LinkedIn](https://www.linkedin.com/in/pranali-valve-aa04b3382/))
+
+
+  # 👋 Hi, I'm Pranali Valve!
+
+### 🤖 Aspiring AI/ML Engineer | 📊 Data Analytics | 🎯 Data Scientist | 🐍 Python Developer
+
+💡 Turning data into insights and ideas into intelligent solutions.
+
+- 🔭 Building AI/ML and Data Analytics projects
+- 🌱 Learning, experimenting, and growing every day
+- 🎯 Focused on solving real-world problems with technology
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🚀 Featured Projects
+
+🎬 **Movie Recommendation System** — Personalized movie recommendations using Python and Machine Learning.
+
+🎓 **College Placement Intelligence** — Data-driven insights into college placement outcomes.
+
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranali-valve&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranali-valve&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranali-valve)
+
+---
+
+✨ *Building today. Innovating tomorrow.* 🚀

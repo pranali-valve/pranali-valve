@@ -49,23 +49,15 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🚀 Featured Projects
-
-🎬 **Movie Recommendation System** — Personalized movie recommendations using Python and Machine Learning.
-
-🎓 **College Placement Intelligence** — Data-driven insights into college placement outcomes.
-
-### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranali-valve&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranali-valve&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranali-valve)
 
+### 📧 Contact with me
+
+- pranalivalve2001@gmail.com
+- ([@pranali.tech](https://www.instagram.com/pranali.tech?igsh=MW82Z2RjMG5wcGM5MQ==))
 ---
 
 ✨ *Building today. Innovating tomorrow.* 🚀
